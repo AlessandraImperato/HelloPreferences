@@ -1,0 +1,4 @@
+#Tue Nov 28 13:33:25 CET 2017
+base.0=C\:\\Users\\step002\\Documents\\AndroidCorso\\Codice\\4.DataStorage\\DataStoragePreferences\\DataStoragePreferences\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\step002\\Documents\\AndroidCorso\\Codice\\4.DataStorage\\DataStoragePreferences\\DataStoragePreferences\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

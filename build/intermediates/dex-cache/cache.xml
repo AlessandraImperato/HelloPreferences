@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\step002\Documents\AndroidCorso\Codice\4.DataStorage\DataStoragePreferences\DataStoragePreferences\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8c6e7bd9ccfe95f9d224f71d2dc2c9286c21cb2e">
+        <dex dex="C:\Users\step002\Documents\AndroidCorso\Codice\4.DataStorage\DataStoragePreferences\DataStoragePreferences\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8fc2e12533f849d99a1d10f6c41f4c5ea9966051\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\step002\Documents\AndroidCorso\Codice\4.DataStorage\DataStoragePreferences\DataStoragePreferences\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\step002\Documents\AndroidCorso\Codice\4.DataStorage\DataStoragePreferences\DataStoragePreferences\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1e584bb27a003b500fe2baed5249c04f550813ae\classes.dex" />
+    </item>
+
+</items>

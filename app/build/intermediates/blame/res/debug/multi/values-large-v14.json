@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\step002\\Documents\\AndroidCorso\\Codice\\4.DataStorage\\DataStoragePreferences\\DataStoragePreferences\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v14\\values-large-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\step002\\.android\\build-cache\\3d88d80f1cb7e29068a6e29922dd47319d76ed73\\output\\res\\values-large-v14\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 108,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 119,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "C:\\Users\\step002\\.android\\build-cache\\3d88d80f1cb7e29068a6e29922dd47319d76ed73\\output\\res\\values-large-v14\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 120,
+                        "endOffset": 515
+                    }
+                }
+            }
+        ]
+    }
+]

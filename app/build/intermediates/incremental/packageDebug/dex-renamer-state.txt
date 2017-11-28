@@ -1,0 +1,7 @@
+#Tue Nov 28 13:33:27 CET 2017
+base.0=C\:\\Users\\step002\\Documents\\AndroidCorso\\Codice\\4.DataStorage\\DataStoragePreferences\\DataStoragePreferences\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8fc2e12533f849d99a1d10f6c41f4c5ea9966051
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\step002\\Documents\\AndroidCorso\\Codice\\4.DataStorage\\DataStoragePreferences\\DataStoragePreferences\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1e584bb27a003b500fe2baed5249c04f550813ae\\classes.dex
+base.1=C\:\\Users\\step002\\Documents\\AndroidCorso\\Codice\\4.DataStorage\\DataStoragePreferences\\DataStoragePreferences\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1e584bb27a003b500fe2baed5249c04f550813ae
+file.0=C\:\\Users\\step002\\Documents\\AndroidCorso\\Codice\\4.DataStorage\\DataStoragePreferences\\DataStoragePreferences\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8fc2e12533f849d99a1d10f6c41f4c5ea9966051\\classes.dex
